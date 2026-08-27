@@ -1,0 +1,12 @@
+local(adoc).
+local(pollo_campero).
+local(wendys).
+local(siman).
+local(dollarcity).
+local(internacional).
+local(jugueton).
+local(cinemark).
+local(claro).
+local(super_selectos).
+local(minizo).
+local(zona_digital).
